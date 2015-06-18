@@ -1,6 +1,6 @@
 {
     "name": "theorchard/monolog-cascade",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "library",
     "description": "Monolog extension to configure multiple loggers in a blink of an eye and access them from anywhere",
     "keywords": ["monolog", "cascade", "monolog extension", "monolog plugin", "monolog utils"],
